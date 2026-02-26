@@ -14,5 +14,6 @@ Cryptography Secrecy Privacy
 Source coding (compressing information) (or entropy)
 Cryptography (protecting information -- confidentiality)
 Channel coding (protecting information physically)
+# Chapters
 
-[[ba2-EPFL/COM-102/Chapter 1]]
+- [[ba2-EPFL/COM-102/Chapter 1]]

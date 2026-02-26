@@ -8,4 +8,6 @@ Redif en ligne du cours (BOOOOOOO :thumbsdown:)
 
 - Bot répond automatiquement (sauf en NoBotsLand)
 
-[[ba2-EPFL/MATH-106/Chapitre 1|Next chapter]]
+# Chapitres
+
+- [[ba2-EPFL/MATH-106/Chapitre 1|Chapitre 1 -- Equations différentielles]]

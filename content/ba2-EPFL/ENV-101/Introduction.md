@@ -30,3 +30,8 @@ QCM intermédiaire : $30\%$
 28 avril, 17h
 
 Projet à rendre : $70\%$
+# Semaines
+
+- Semaine 1 (Pas de cours)
+- [[Semaine 2|Semaine 2 -- Les techniques]]
+- [[Semaine 3|Semaine 3 -- Empreinte carbone]]

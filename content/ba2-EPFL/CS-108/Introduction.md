@@ -18,5 +18,8 @@ Voir : [[Ajul]]
 
 Projet $\approx 60\%$
 Examen $\approx 40\%$
+# Chapitres
 
-[[ba2-EPFL/CS-108/Chapitre 1|Chapitre 1]]
+- [[ba2-EPFL/CS-108/Chapitre 1|Chapitre 1]]
+- [[Chapitre 2]]
+- [[Chapitre 4]]
