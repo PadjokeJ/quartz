@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Lecture notes homepage
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my university notes that I take during my studies at [EPFL](https://epfl.ch)  
+
+Bachelor:
+- [[ba2-EPFL/Index.md]]
