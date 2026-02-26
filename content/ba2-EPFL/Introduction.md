@@ -8,4 +8,4 @@ Redif en ligne du cours (BOOOOOOO :thumbsdown:)
 
 - Bot répond automatiquement (sauf en NoBotsLand)
 
-[[MATH-106/Chapitre 1|Next chapter]]
+[[ba2-EPFL/MATH-106/Chapitre 1|Next chapter]]
