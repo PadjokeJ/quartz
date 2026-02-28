@@ -1,59 +1,60 @@
 @use "./base.scss";
 
-/* === DEFINITION === */
-.callout[data-callout^="definition"], 
-.callout[data-callout^="définition"] {
-  --callout-color: 255, 121, 198;
-  --callout-icon: lucide-book-open;
-  background-color: rgba(255, 121, 198, 0.2);
-}
+.callout {
+  &[data-callout^="definition"], 
+  &[data-callout^="définition"] {
+    --color: 255, 121, 198;
+    --callout-icon: lucide-book-open;
+    --bg: rgba(255, 121, 198, 0.2);
+  }
 
-.callout[data-callout^="theorem"],
-.callout[data-callout^="théorème"] {
-  --callout-color: 121, 255, 198;
-  --callout-icon: lucide-square-sigma;
-  background-color: rgba(121, 255, 198, 0.2);
-}
+  &[data-callout^="theorem"],
+  &[data-callout^="théorème"] {
+    --color: 121, 255, 198;
+    --callout-icon: lucide-square-sigma;
+    --bg: rgba(121, 255, 198, 0.2);
+  }
 
-.callout[data-callout^="propriété"],
-.callout[data-callout^="propriety"],
-.callout[data-callout^="proprieties"],
-.callout[data-callout^="propriétés"] {
-  --callout-color: 198, 121, 255;
-  --callout-icon: lucide-square-pi;
-  background-color: rgba(198, 121, 255, 0.2);
-}
+  &[data-callout^="propriété"],
+  &[data-callout^="propriety"],
+  &[data-callout^="proprieties"],
+  &[data-callout^="propriétés"] {
+    --color: 198, 121, 255;
+    --callout-icon: lucide-square-pi;
+    --bg: rgba(198, 121, 255, 0.2);
+  }
 
-.callout[data-callout^="corollary"],
-.callout[data-callout^="corollaire"] {
-  --callout-color: 121, 198, 255;
-  --callout-icon: lucide-book-copy;
-  background-color: rgba(121, 198, 255, 0.2);
-}
+  &[data-callout^="corollary"],
+  &[data-callout^="corollaire"] {
+    --color: 121, 198, 255;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-book-copy-icon lucide-book-copy'%3E%3Cpath d='M5 7a2 2 0 0 0-2 2v11'/%3E%3Cpath d='M5.803 18H5a2 2 0 0 0 0 4h9.5a.5.5 0 0 0 .5-.5V21'/%3E%3Cpath d='M9 15V4a2 2 0 0 1 2-2h9.5a.5.5 0 0 1 .5.5v14a.5.5 0 0 1-.5.5H11a2 2 0 0 1 0-4h10'/%3E%3C/svg%3E");
+    --bg: rgba(121, 198, 255, 0.2);
+  }
 
-.callout[data-callout^="proposition"] {
-  --callout-color: 198, 255, 121;
-  --callout-icon: lucide-logs;
-  background-color: rgba(198, 255, 121, 0.2);
-}
+  &[data-callout^="proposition"] {
+    --color: 198, 255, 121;
+    --callout-icon: lucide-logs;
+    --bg: rgba(198, 255, 121, 0.2);
+  }
 
-.callout[data-callout^="lemma"],
-.callout[data-callout^="lemme"] {
-  --callout-color: 198, 121, 121;
-  --callout-icon: lucide-list-checks;
-  background-color: rgba(198, 121, 121, 0.2);
-}
+  &[data-callout^="lemma"],
+  &[data-callout^="lemme"] {
+    --color: 198, 121, 121;
+    --callout-icon: lucide-list-checks;
+    --bg: rgba(198, 121, 121, 0.2);
+  }
 
-.callout[data-callout^="arthur"] {
-  --callout-color: 255, 255, 0;
-  --callout-icon: lucide-annoyed;
-  background-color: rgba(255, 255, 0, 0.2);
-}
+  &[data-callout^="arthur"] {
+    --color: 255, 255, 0;
+    --callout-icon: lucide-annoyed;
+    --bg: rgba(255, 255, 0, 0.2);
+  }
 
-.callout[data-callout^="algorithme"],
-.callout[data-callout^="algorithm"] {
-  --callout-color: 140, 30, 140;
-  --callout-icon: lucide-list-video;
-  background-color: rgba(140, 30, 140, 0.2);
+  &[data-callout^="algorithme"],
+  &[data-callout^="algorithm"] {
+    --color: 140, 30, 140;
+    --callout-icon: lucide-list-video;
+    --bg: rgba(140, 30, 140, 0.2);
+  }
 }
 

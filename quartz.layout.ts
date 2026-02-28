@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/PadjokeJ/ba2-EPFL"
+      GitHub: "https://github.com/PadjokeJ/ba2-EPFL",
+      "EPFL Page": "https://people.epfl.ch/jonatan.pfister"
     },
   }),
 }
