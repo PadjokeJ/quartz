@@ -1,4 +1,7 @@
-#shs 
+---
+tags:
+  - shs
+---
 # Objectifs
 
 - Comprendre l'impact des activités humaines
@@ -10,3 +13,4 @@
 - [[03.2 Climat -- 1]]
 - [[03.3 Climat -- 2]]
 - [[03.4 Cycle du carbone]]
+- [[03.5 Rétroactions, réduction des émissions]]

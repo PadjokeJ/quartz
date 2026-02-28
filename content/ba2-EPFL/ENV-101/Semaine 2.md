@@ -1,4 +1,7 @@
-#shs 
+---
+tags:
+  - shs
+---
 # Objectifs
 
 - Développer une vision pluraliste et réaliste des techniques
