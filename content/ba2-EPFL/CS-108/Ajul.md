@@ -1,4 +1,7 @@
-#poop
+---
+tags:
+  - poop
+---
 
 voir [[01.1 Test unitaire|comment tester les bugs]]
 

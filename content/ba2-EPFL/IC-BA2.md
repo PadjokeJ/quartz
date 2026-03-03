@@ -1,5 +1,4 @@
 Welcome to my second semester!
-
 - [[ba2-EPFL/MATH-106/Introduction|Analysis II]]
 - [[ba2-EPFL/COM-102/Introduction|AICC]]
 - [[ba2-EPFL/ENV-101/Introduction|SHS]]

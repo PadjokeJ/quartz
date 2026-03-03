@@ -1,5 +1,7 @@
-#gde
-
+---
+tags:
+  - gde
+---
 # Chapitres
 
 - [[ba2-EPFL/GDE-101/Chapitre 1|Chapitre 1 -- Game design]]

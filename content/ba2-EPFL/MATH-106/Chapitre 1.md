@@ -1,4 +1,7 @@
-#analyse 
+---
+tags:
+  - analyse
+---
 
 ## Equations differentielles
 

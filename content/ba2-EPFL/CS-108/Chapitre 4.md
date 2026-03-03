@@ -2,7 +2,6 @@
 tags:
   - poop
 ---
-
 Contenu :
 - [[04.1 Généricité --Intro]]
 - [[04.2 Généricité -- Object]]
