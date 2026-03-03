@@ -1,6 +1,6 @@
 #poop
 
-voir [[02.1 Test unitaire|comment tester les bugs]]
+voir [[01.1 Test unitaire|comment tester les bugs]]
 
 # Tuiles
 
