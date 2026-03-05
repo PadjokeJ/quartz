@@ -1,4 +1,7 @@
-#aicc
+---
+tags:
+  - aicc
+---
 
 >[!Quote]
 >"To have interesting computation you need data"
