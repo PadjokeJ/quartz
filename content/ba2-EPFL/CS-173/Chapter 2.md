@@ -10,3 +10,4 @@ Contents:
 - [[02.5 Analysis of a Logic Network]]
 - [[02.7 Logic synthesis -- Minterms - Maxterms]]
 - [[02.8 NAND and NOR Logic Networks]]
+- [[02.9 Karnaugh maps]]
