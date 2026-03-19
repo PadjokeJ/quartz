@@ -39,4 +39,5 @@ Projet à rendre : $70\%$
 - [[Semaine 2|Semaine 2 -- Les techniques]]
 - [[Semaine 3|Semaine 3 -- Empreinte carbone]]
 - [[Semaine 4|Semaine 4 -- La biodiversité]]
-- [[Semaine 5| Semaine 5 -- L'hydrosphère]]
+- [[Semaine 5|Semaine 5 -- L'hydrosphère]]
+- [[Semaine 6|Semaine 6 -- L'histoire de la durabilité et théories]]

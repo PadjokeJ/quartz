@@ -5,4 +5,4 @@ tags:
 Contenu :
 - [[01.1 Test unitaire]]
 
-[[Chapitre 2]]
+[[ba2-EPFL/CS-108/Chapitre 2]]

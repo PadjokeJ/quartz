@@ -8,3 +8,5 @@ Content:
 - [[01.4 Conditional Entropy]]
 - [[01.5 Entropy and algorithms]]
 - [[01.6 Prediction, Learning and Cross-Entropy Loss]]
+
+[[ba2-EPFL/COM-102/Chapter 2]]
