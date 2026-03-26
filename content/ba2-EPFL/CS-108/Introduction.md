@@ -27,3 +27,5 @@ Examen $\approx 40\%$
 - [[Chapitre 4]]
 - [[Chapitre 5]]
 - [[Chapitre 6]]
+- [[Chapitre 7]]
+- [[Chapitre 8]]

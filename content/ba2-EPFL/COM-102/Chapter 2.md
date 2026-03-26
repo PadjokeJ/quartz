@@ -4,3 +4,4 @@ tags:
 ---
 Content :
 - [[02.1 OTP, Perfect Secrecy, Public Key]]
+- [[02.2 Rudiments of Number Theory]]
