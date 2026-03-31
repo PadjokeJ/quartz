@@ -7,3 +7,4 @@ Contents :
 - [[03.2 Verilog HDL -- Introduction]]
 - [[03.3 Adders in Verilog]]
 
+[[Chapter 4]]
