@@ -21,3 +21,5 @@ Rounded to the closest $0.25$
 
 - [[ba2-EPFL/CS-173/Chapter 1|Chapter 1]]
 - [[Chapter 2]]
+- [[Chapter 3]]
+- [[Chapter 4]]
