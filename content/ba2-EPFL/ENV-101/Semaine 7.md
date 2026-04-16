@@ -14,3 +14,5 @@ tags:
 - [[07.1 Introduction to system thinking]]
 - [[07.2 Building our systems thinking toolbox]]
 - [[07.3 From systems toolbox to systems thinking]]
+
+[[Semaine 8]]

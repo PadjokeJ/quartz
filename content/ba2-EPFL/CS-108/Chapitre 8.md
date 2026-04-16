@@ -9,3 +9,5 @@ Contenu :
 - [[08.4 Le patron Decorator]]
 - [[08.5 Le patron Composite]]
 - [[08.6 Le patron Adapter]]
+
+[[Chapitre 9]]

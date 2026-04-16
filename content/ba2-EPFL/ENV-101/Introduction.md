@@ -35,10 +35,12 @@ QCM intermédiaire : $30\%$
 Projet à rendre : $70\%$
 # Semaines
 
-- Semaine 1 (Pas de cours)
+- Semaine 1 (Pas de cours => Conférence du grand témoin)
 - [[Semaine 2|Semaine 2 -- Les techniques]]
 - [[Semaine 3|Semaine 3 -- Empreinte carbone]]
 - [[Semaine 4|Semaine 4 -- La biodiversité]]
 - [[Semaine 5|Semaine 5 -- L'hydrosphère]]
 - [[Semaine 6|Semaine 6 -- L'histoire de la durabilité et théories]]
 - [[Semaine 7|Semaine 7 -- Systems thinking]]
+- [[Semaine 8|Semaine 8 -- Technologies et leviers d'actions]]
+- [[Semaine 9|Semaine 9 -- ]]
