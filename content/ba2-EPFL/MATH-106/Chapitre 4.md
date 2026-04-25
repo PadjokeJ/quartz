@@ -8,7 +8,7 @@ Contenu :
 - [[04.3 Dérivabilité et la différentielle]]
 - [[04.4 Dérivées partielles d'ordre supérieur]]
 - [[04.5 Fonctions à valeurs dans Rm]]
-- [[04.6 Application des matrices  jacobiennes]]
+- [[04.6 Application des matrices jacobiennes]]
 - [[04.7 Dérivée d'une intégrale dépendant d'un paramètre]]
 - [[04.8 Formule de Taylor]]
 - 
