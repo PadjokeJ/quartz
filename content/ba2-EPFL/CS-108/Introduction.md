@@ -24,7 +24,7 @@ Examen $\approx 40\%$
 
 - [[ba2-EPFL/CS-108/Chapitre 1|Chapitre 1]]
 - [[ba2-EPFL/CS-108/Chapitre 2]]
-- [[Chapitre 4]]
+- [[ba2-EPFL/CS-108/Chapitre 4]]
 - [[Chapitre 5]]
 - [[Chapitre 6]]
 - [[Chapitre 7]]
