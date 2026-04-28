@@ -23,3 +23,4 @@ Rounded to the closest $0.25$
 - [[Chapter 2]]
 - [[Chapter 3]]
 - [[Chapter 4]]
+- [[Chapter 5]]

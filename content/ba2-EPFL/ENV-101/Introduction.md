@@ -43,4 +43,5 @@ Projet à rendre : $70\%$
 - [[Semaine 6|Semaine 6 -- L'histoire de la durabilité et théories]]
 - [[Semaine 7|Semaine 7 -- Systems thinking]]
 - [[Semaine 8|Semaine 8 -- Technologies et leviers d'actions]]
-- [[Semaine 9|Semaine 9 -- ]]
+- Semaine 9 (Pas de cours => Pâques)
+- [[Semaine 10|Semaine 10 -- Leviers politiques et économiques]]
