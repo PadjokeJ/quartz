@@ -6,6 +6,7 @@ tags:
 
 - [[ba2-EPFL/GDE-101/Chapitre 1|Chapitre 1 -- Game design]]
 - [[ba2-EPFL/GDE-101/Chapitre 2|Chapitre 2 -- Game art]]
+- [[ba2-EPFL/GDE-101/Chapitre 4|Chapitre 4 -- Game story]]
 # Par qui ?
 
 Game* -> Comission de la CLIC (assoc étudiants en IC)

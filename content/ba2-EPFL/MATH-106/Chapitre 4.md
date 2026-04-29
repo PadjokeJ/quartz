@@ -11,4 +11,4 @@ Contenu :
 - [[04.6 Application des matrices jacobiennes]]
 - [[04.7 Dérivée d'une intégrale dépendant d'un paramètre]]
 - [[04.8 Formule de Taylor]]
-- 
+- [[04.9 Extrema d'une fonction de plusieurs variables]]

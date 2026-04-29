@@ -16,3 +16,5 @@ tags:
 
 - [[02.4 Cas d'étude -- IA]]
 - [[02.5 Cas d'étude -- Low-tech]]
+
+[[Semaine 3]]

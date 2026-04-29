@@ -11,5 +11,8 @@ Contents:
 - [[02.7 Logic synthesis -- Minterms - Maxterms]]
 - [[02.8 NAND and NOR Logic Networks]]
 - [[02.9 Karnaugh maps]]
+- [[02.10 XOR and XNOR]]
+- [[02.11 Multiplexer]]
+- [[02.12 Adders]]
 
-[[Chapter 3]]
+[[ba2-EPFL/CS-173/Chapter 3]]
