@@ -1,17 +1,8 @@
-# Quartz v4
+# Lecture Notes Quartz Instance
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Here is my quartz instance containing my lecture notes across the years. You can find them at their individual repositories:
+- [Bachelor First Year (Ba1) (bad)](https://github.com/PadjokeJ/ba1-EPFL)
+- [Bachelor Second Year (Ba2)](https://github.com/PadjokeJ/ba2-EPFL)
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Updates come more frequently here than on their repositories
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>

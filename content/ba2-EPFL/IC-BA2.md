@@ -5,3 +5,7 @@ Welcome to my second semester!
 - [[ba2-EPFL/CS-108/Introduction|Object oriented programming]]
 - [[ba2-EPFL/CS-173/Introduction|Fundamentals of Digital systems]]
 - [[ba2-EPFL/GDE-101/Introduction|Game dev]]
+
+If you wish to contribute to those notes (fixes and such), you can email me on my epfl mail: jonatan \[dot\] pfister
+
+Or contribute [on the git repo](https://github.com/PadjokeJ/ba2-EPFL)

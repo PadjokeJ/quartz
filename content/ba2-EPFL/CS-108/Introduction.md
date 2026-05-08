@@ -12,6 +12,8 @@ Grande partie de la note est le projet, basé sur le jeu de société azul
 
 Voir : [[Ajul]]
 
+Code stocké sur [ce dépot github](https://github.com/PadjokeJ/Ajul) (pour le moment privé)
+
 1 - 6 : tres guidée, fonctionnement
 7 - 11 : moins guidée, interface
 12 : étape créative optionnelle
@@ -34,3 +36,6 @@ Examen $\approx 40\%$
 - [[Chapitre 10|Chapitre 10 -- Interfaces graphiques avec JavaFX]]
 - [[Chapitre 11|Chapitre 11 -- Entrées/sorties]]
 - [[Chapitre 12|Chapitre 12 -- Egalité, ordre et hachage]]
+# Exercices
+
+Tous les exercices faits sur la durée du cours sont situés sur [ce dépot github](https://github.com/PadjokeJ/CS108)
