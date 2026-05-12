@@ -9,3 +9,4 @@ Contents:
 - [[06.4 Memory]]
 - [[06.5 Branches]]
 - [[06.6 Assembler directives]]
+- [[06.7 CPU Performance]]

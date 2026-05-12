@@ -7,3 +7,5 @@ Contenu :
 - [[12.2 Egalité en Java]]
 - [[12.3 Ordre]]
 - [[12.4 Hachage]]
+
+[[Chapitre 13]]
