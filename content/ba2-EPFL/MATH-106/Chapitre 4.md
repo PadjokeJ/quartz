@@ -14,3 +14,5 @@ Contenu :
 - [[04.9 Extrema d'une fonction de plusieurs variables]]
 - [[04.10 Théorème des fonctions implicites]]
 - [[04.11 Extrema liés. Méthode des multiplicateurs de Lagrange]]
+
+[[ba2-EPFL/MATH-106/Chapitre 5|Chapitre 5]]

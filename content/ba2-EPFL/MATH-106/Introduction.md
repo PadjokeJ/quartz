@@ -16,3 +16,4 @@ Redif en ligne du cours (BOOOOOOO :thumbsdown:)
 - [[ba2-EPFL/MATH-106/Chapitre 2|Chapitre 2 -- Espace Rn]]
 - [[Chapitre 3|Chapitre 3 -- Fonctions réelles]]
 - [[ba2-EPFL/MATH-106/Chapitre 4|Chapitre 4 -- Dérivabilité]]
+- [[ba2-EPFL/MATH-106/Chapitre 5|Chapitre 5 -- Calcul intégral des fonctions de plusieurs variables]]
