@@ -24,6 +24,7 @@ Rounded to the closest $0.25$
 - [[Chapter 4]]
 - [[Chapter 5]]
 - [[Chapter 6]]
+- [[Chapter 7]]
 # Exercises
 
 All exercises I do are located on the respective [course repository](https://github.com/PadjokeJ/CS173)

@@ -37,6 +37,7 @@ Examen $\approx 40\%$
 - [[Chapitre 11|Chapitre 11 -- Entrées/sorties]]
 - [[Chapitre 12|Chapitre 12 -- Egalité, ordre et hachage]]
 - [[Chapitre 13|Chapitre 13 -- Mise en oeuvre des listes]]
+- [[Chapitre 14|Chapitre 14 -- Mise en oeuvre des ensembles]]
 # Exercices
 
 Tous les exercices faits sur la durée du cours sont situés sur [ce dépot github](https://github.com/PadjokeJ/CS108)
