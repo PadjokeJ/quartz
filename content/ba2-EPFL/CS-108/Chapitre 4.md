@@ -8,4 +8,4 @@ Contenu :
 - [[04.3 Généricité]]
 - [[04.4 Généricité -- Paire]]
 
-[[Chapitre 5]]
+[[ba2-EPFL/CS-108/Chapitre 5]]

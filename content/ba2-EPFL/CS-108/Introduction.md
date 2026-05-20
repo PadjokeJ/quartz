@@ -28,7 +28,7 @@ Examen $\approx 40\%$
 - [[ba2-EPFL/CS-108/Chapitre 2|Chapitre 2 -- Immuabilité]]
 - Chapitre 3 -- Types entiers (pas vu en cours)
 - [[ba2-EPFL/CS-108/Chapitre 4|Chapitre 4 -- Généricité]]
-- [[Chapitre 5|Chapitre 5 -- Collections]]
+- [[ba2-EPFL/CS-108/Chapitre 5|Chapitre 5 -- Collections]]
 - [[Chapitre 6|Chapitre 6 -- Lambdas]]
 - [[Chapitre 7|Chapitre 7 -- Programmation par flots]]
 - [[Chapitre 8|Chapitre 8 -- Patrons de conception I]]
