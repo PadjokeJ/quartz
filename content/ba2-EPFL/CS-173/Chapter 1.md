@@ -8,4 +8,4 @@ Content:
 - [[01.2 Addition Substraction Multiplication]]
 - [[01.3 Fractional Binary]]
 
-[[Chapter 2]]
+[[ba2-EPFL/CS-173/Chapter 2|Chapter 2]]
