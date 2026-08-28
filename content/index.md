@@ -9,4 +9,5 @@ You can email me at jonatan.pfister\[at\]epfl.ch if you find any errors :\)
 
 Bachelor:
 
+- [[ba1-EPFL/IC-BA1]]
 - [[ba2-EPFL/IC-BA2]]

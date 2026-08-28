@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/PadjokeJ/quartz",
+      "Ba1 Repository": "https://github.com/PadjokeJ/ba1-EPFL",
       "Ba2 Repository": "https://github.com/PadjokeJ/ba2-EPFL",
       "EPFL Page": "https://people.epfl.ch/jonatan.pfister"
     },
