@@ -1,3 +1,8 @@
+---
+tags:
+  - analyse
+---
+
 # Contenu
 
 - [[00.0 Prérequis]]

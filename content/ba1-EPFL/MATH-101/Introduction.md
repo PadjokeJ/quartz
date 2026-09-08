@@ -1,3 +1,8 @@
+---
+tags:
+  - analyse
+---
+
 Le cours a des polycopiés et ressources utiles sur le moodle
 
 ED n'a plus d'IA !!
