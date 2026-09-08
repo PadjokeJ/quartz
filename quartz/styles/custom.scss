@@ -1,3 +1,61 @@
 @use "./variables.scss" as *;
+@use "./base.scss";
 
+.callout {
+  &[data-callout^="definition"], 
+  &[data-callout^="définition"] {
+    --color: 255, 121, 198;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-book-open-icon lucide-book-open'%3E%3Cpath d='M12 7v14'/%3E%3Cpath d='M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z'/%3E%3C/svg%3E");
+    --bg: rgba(255, 121, 198, 0.2);
+  }
+
+  &[data-callout^="theorem"],
+  &[data-callout^="théorème"] {
+    --color: 121, 255, 198;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-square-sigma-icon lucide-square-sigma'%3E%3Crect width='18' height='18' x='3' y='3' rx='2'/%3E%3Cpath d='M16 8.9V7H8l4 5-4 5h8v-1.9'/%3E%3C/svg%3E");
+    --bg: rgba(121, 255, 198, 0.2);
+  }
+
+  &[data-callout^="propriété"],
+  &[data-callout^="propriety"],
+  &[data-callout^="proprieties"],
+  &[data-callout^="propriétés"] {
+    --color: 198, 121, 255;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-square-pi-icon lucide-square-pi'%3E%3Crect width='18' height='18' x='3' y='3' rx='2'/%3E%3Cpath d='M7 7h10'/%3E%3Cpath d='M10 7v10'/%3E%3Cpath d='M16 17a2 2 0 0 1-2-2V7'/%3E%3C/svg%3E");
+    --bg: rgba(198, 121, 255, 0.2);
+  }
+
+  &[data-callout^="corollary"],
+  &[data-callout^="corollaire"] {
+    --color: 121, 198, 255;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-book-copy-icon lucide-book-copy'%3E%3Cpath d='M5 7a2 2 0 0 0-2 2v11'/%3E%3Cpath d='M5.803 18H5a2 2 0 0 0 0 4h9.5a.5.5 0 0 0 .5-.5V21'/%3E%3Cpath d='M9 15V4a2 2 0 0 1 2-2h9.5a.5.5 0 0 1 .5.5v14a.5.5 0 0 1-.5.5H11a2 2 0 0 1 0-4h10'/%3E%3C/svg%3E");
+    --bg: rgba(121, 198, 255, 0.2);
+  }
+
+  &[data-callout^="proposition"] {
+    --color: 198, 255, 121;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-logs-icon lucide-logs'%3E%3Cpath d='M3 5h1'/%3E%3Cpath d='M3 12h1'/%3E%3Cpath d='M3 19h1'/%3E%3Cpath d='M8 5h1'/%3E%3Cpath d='M8 12h1'/%3E%3Cpath d='M8 19h1'/%3E%3Cpath d='M13 5h8'/%3E%3Cpath d='M13 12h8'/%3E%3Cpath d='M13 19h8'/%3E%3C/svg%3E");
+    --bg: rgba(198, 255, 121, 0.2);
+  }
+
+  &[data-callout^="lemma"],
+  &[data-callout^="lemme"] {
+    --color: 198, 121, 121;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-list-checks-icon lucide-list-checks'%3E%3Cpath d='M13 5h8'/%3E%3Cpath d='M13 12h8'/%3E%3Cpath d='M13 19h8'/%3E%3Cpath d='m3 17 2 2 4-4'/%3E%3Cpath d='m3 7 2 2 4-4'/%3E%3C/svg%3E");
+    --bg: rgba(198, 121, 121, 0.2);
+  }
+
+  &[data-callout^="arthur"] {
+    --color: 255, 255, 0;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-annoyed-icon lucide-annoyed'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Cpath d='M8 15h8'/%3E%3Cpath d='M8 9h2'/%3E%3Cpath d='M14 9h2'/%3E%3C/svg%3E");
+    --bg: rgba(255, 255, 0, 0.2);
+  }
+
+  &[data-callout^="algorithme"],
+  &[data-callout^="algorithm"] {
+    --color: 140, 30, 140;
+    --callout-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-list-video-icon lucide-list-video'%3E%3Cpath d='M21 5H3'/%3E%3Cpath d='M10 12H3'/%3E%3Cpath d='M10 19H3'/%3E%3Cpath d='M15 12.003a1 1 0 0 1 1.517-.859l4.997 2.997a1 1 0 0 1 0 1.718l-4.997 2.997a1 1 0 0 1-1.517-.86z'/%3E%3C/svg%3E");
+    --bg: rgba(140, 30, 140, 0.2);
+  }
+}
 // put your custom CSS here!
