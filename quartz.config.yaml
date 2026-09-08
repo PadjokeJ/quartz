@@ -109,6 +109,10 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header: 'JetBrains Mono'
+      body: 'Source Sans Pro'
+      code: 'JetBrains Mono'
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
