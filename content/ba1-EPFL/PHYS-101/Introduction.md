@@ -24,4 +24,4 @@ Un formulaire est fourni à l' #exam
 
 Si une formule est dans le formulaire, on peut l'utiliser sans la prouver dans l'examen
 
-Une feuille **recto simple** (UN CÔTÉ) manuscrite (peut être rédigée sur une tablette)
+On peut également avoir une feuille **recto simple** (UN CÔTÉ) manuscrite (peut être rédigée sur une tablette)
